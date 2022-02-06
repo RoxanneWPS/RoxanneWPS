@@ -12,7 +12,7 @@ All my projects are private and here I will publish projects
 
 - https://roxannewps.github.io/pOOBs4/
 
-### Linux PS4 [Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+### Linux PS4 ![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
 
 - https://roxannewps.github.io/Linux-900/
 
