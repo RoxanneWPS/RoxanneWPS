@@ -8,7 +8,7 @@ All my projects are private and here I will publish projects
 
 # Exploits, Webkit, Jailbreak PS4 & PS5
 
-### PS4 Jailbreak + Goldhen v2.1 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
+### PS4 Jailbreak + Goldhen v2.1.1 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
 
 - https://roxannewps.github.io/pOOBs4/
 
